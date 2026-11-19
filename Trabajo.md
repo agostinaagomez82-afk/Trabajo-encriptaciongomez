@@ -27,7 +27,6 @@ La diferencia está en cómo se manejan las claves:
 
 - **Asimétrico:** Usa dos claves relacionadas entre sí: una pública y una privada. Ejemplo: RSA.
 
----
 
 ## Parte 3: Actividades Prácticas
 
