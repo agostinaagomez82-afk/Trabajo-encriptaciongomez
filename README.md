@@ -1,11 +1,8 @@
-# # Trabajo Práctico de Redes
+# # Trabajo encriptación 
 
 **Alumno:** Agostina Gómez
 
-**Materia:** Redes Informáticas
-
-## Descripción
-Este repositorio contiene el trabajo práctico realizado en Word.
+**Materia:** sistemas de informacion
 
 ## Archivo
-- Trabajo_Redes.docx
+- Trabajo_encriptacion
